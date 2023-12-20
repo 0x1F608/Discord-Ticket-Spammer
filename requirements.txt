@@ -1,0 +1,4 @@
+requests
+threading
+pystyle
+colorama

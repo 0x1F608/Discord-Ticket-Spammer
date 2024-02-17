@@ -2,3 +2,7 @@ requests
 threading
 pystyle
 colorama
+uuid
+tls_client
+tls-client
+
